@@ -5,3 +5,8 @@ Código que recebe um vetor de números inteiros chamado vetor, uma variável in
 A função maxmin do exercício apresenta coesão funcional, pois ela tem uma única responsabilidade clara: encontrar o valor máximo e mínimo em um vetor de números inteiros. A função não está realizando múltiplas tarefas ou manipulando dados para finalidades diversas. Quanto ao acoplamento, a função maxmin é relativamente fraca em termos de acoplamento, pois recebe o vetor, seu tamanho e as variáveis maximo e minimo por referência. Ela não está diretamente acoplada a outras partes do código além dos seus parâmetros de entrada e saída.
 ## Exercício 03
 Código onde são criadas quatro variáveis float e são passadas em uma função para que possam ser ordenadas em ordem crescente.
+## Exercício 04
+Função calcula que:
+- recebe como parâmetros duas variáveis inteiras, X e Y;
+- retorna em X a soma de X e Y;
+- retorna em Y a subtração de X e Y
