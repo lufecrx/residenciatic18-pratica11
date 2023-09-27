@@ -20,5 +20,6 @@ Neste código, a função multiplica_por_n recebe um vetor e um multiplicador, e
 Neste código, a função eh_primo verifica se um número é primo ou não. A função conta_primos itera através do vetor e chama eh_primo para cada elemento, contando quantos são primos. O programa principal pede ao usuário que insira os elementos do vetor, chama a função conta_primos para contar os números primos e imprime o resultado na tela. 
 ## Exercício 09
 Neste programa, a função calc_serie recebe um valor inteiro N como entrada e calcula a soma da série conforme descrito. A série é calculada com um loop que começa com o numerador em 1 e o denominador em N, incrementando o numerador e decrementando o denominador até que o numerador seja igual a N. O resultado da série é armazenado na variável soma e, em seguida, é retornado. O programa principal pede ao usuário que insira o valor de N, chama a função calc_serie e imprime o resultado na tela.
-
+## Exercício 10
+Neste código, a função encontra_posicoes percorre a string str, verifica se cada caractere é igual à letra fornecida e, se for o caso, armazena o índice no vetor posicoes. O tamanho do vetor posicoes é armazenado na variável tamanho. No programa principal, o usuário insere a string e a letra, e a função encontra_posicoes é chamada para encontrar as posições da letra na string. Os índices são então impressos na tela.
 
