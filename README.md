@@ -10,3 +10,5 @@ Função calcula que:
 - recebe como parâmetros duas variáveis inteiras, X e Y;
 - retorna em X a soma de X e Y;
 - retorna em Y a subtração de X e Y
+## Exercício 05
+O programa demonstra a inserção de um elemento no meio de um vetor e exibe o vetor resultante.
