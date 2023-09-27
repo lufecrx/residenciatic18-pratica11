@@ -24,5 +24,6 @@ Neste programa, a função calc_serie recebe um valor inteiro N como entrada e c
 Neste código, a função encontra_posicoes percorre a string str, verifica se cada caractere é igual à letra fornecida e, se for o caso, armazena o índice no vetor posicoes. O tamanho do vetor posicoes é armazenado na variável tamanho. No programa principal, o usuário insere a string e a letra, e a função encontra_posicoes é chamada para encontrar as posições da letra na string. Os índices são então impressos na tela.
 ## Exercício 11
 Neste código, a função codificar recebe uma string e a codifica de acordo com a regra secreta (substituindo cada letra pela próxima), enquanto a função decodificar decodifica a string (substituindo cada letra pela anterior). O programa principal pede ao usuário que insira uma string, em seguida, chama as funções codificar e decodificar, e imprime os resultados na tela. 
-
+## Exercício 12
+Neste código, a função caracteres_comuns recebe duas strings, A e B, e itera pelos caracteres de A. Para cada caractere em A, verifica se ele também está presente em B (usando a função find) e se ainda não foi adicionado à string C (para evitar duplicatas). Se um caractere for comum entre A e B, ele é adicionado à string C. O programa principal pede ao usuário que insira as duas strings, chama a função caracteres_comuns e imprime os caracteres comuns na string C. Se não houver caracteres comuns, ele informará que não há caracteres comuns entre as duas strings.
 
