@@ -12,3 +12,5 @@ Função calcula que:
 - retorna em Y a subtração de X e Y
 ## Exercício 05
 O programa demonstra a inserção de um elemento no meio de um vetor e exibe o vetor resultante.
+## Exercício 06
+Neste código, a função intercala cria um novo vetor dinamicamente alocado para armazenar os valores intercalados dos dois vetores de entrada. Ela então intercala os elementos dos dois vetores, copiando-os para o vetor resultante, e retorna o vetor resultante. O programa principal pede ao usuário que insira os elementos dos dois vetores e, em seguida, chama a função intercala para obter o vetor intercalado, que é impresso na tela. 
